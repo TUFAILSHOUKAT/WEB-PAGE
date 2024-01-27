@@ -1,0 +1,14 @@
+ul> li{ display: inline-block; height: 100px; width: 100px;position: relative ;
+top: 40px; position: relative;left: 800px;  ;
+}
+ul{ background-color: orange; color: blue; font-size: -large;}
+.right{ color: firebrick; position: absolute; top: 45px; position: absolute; left: 50px;
+    font-size: xx-large;
+}
+.left{   color: black; ;
+position: relative;top: 60px; left: 100px;font-weight: bold; text-transform: capitalize;
+line-height: 22px;
+
+}
+.middle{ position: relative;  left: 600px; position: relative; bottom: 180px;}
+body{ background-color: white;}
